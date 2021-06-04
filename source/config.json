@@ -2,6 +2,13 @@
   "source": [
     {
       "type": "",
+      "sourceName": "快播资源",
+      "baseUrl": "http://www.kuaibozy.com",
+      "apiUrl": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "八戒资源",
       "baseUrl": "http://cj.bajiecaiji.com",
       "apiUrl": "http://cj.bajiecaiji.com/inc/api.php",
@@ -37,13 +44,6 @@
     },
     {
       "type": "",
-      "sourceName": "恐怖鸭资源",
-      "baseUrl": "https://kongbuya.com",
-      "apiUrl": "https://kongbuya.com/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "不开门",
       "baseUrl": "http://c.bukai.men",
       "apiUrl": "http://c.bukai.men/api.php/provide/vod/at/xml",
@@ -54,13 +54,6 @@
       "sourceName": "麻瓜资源",
       "baseUrl": "http://maguays.cc",
       "apiUrl": "http://maguays.cc/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "快播资源",
-      "baseUrl": "http://www.kuaibozy.com",
-      "apiUrl": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -82,6 +75,13 @@
       "sourceName": "萝卜资源",
       "baseUrl": "https://cj.lby.pet",
       "apiUrl": "https://cj.lby.pet/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "恐怖鸭资源",
+      "baseUrl": "https://kongbuya.com",
+      "apiUrl": "https://kongbuya.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
