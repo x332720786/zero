@@ -86,13 +86,6 @@
     },
     {
       "type": "",
-      "sourceName": "明日资源",
-      "baseUrl": "http://zy.zcocc.com",
-      "apiUrl": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "柚子资源",
       "baseUrl": "http://tv.aitesucai.xyz",
       "apiUrl": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
@@ -215,6 +208,13 @@
       "sourceName": "真不卡资源",
       "baseUrl": "http://db.taijuwang.cc",
       "apiUrl": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "明日资源",
+      "baseUrl": "http://zy.zcocc.com",
+      "apiUrl": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
