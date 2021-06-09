@@ -65,6 +65,13 @@
     },
     {
       "type": "",
+      "sourceName": "免费电影",
+      "baseUrl": "http://www.ruiuri.com",
+      "apiUrl": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "4k姨妈",
       "baseUrl": "https://4k.4kyima.com",
       "apiUrl": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
@@ -229,6 +236,20 @@
       "sourceName": "嘀哩嘀哩",
       "baseUrl": "http://diliktv.com",
       "apiUrl": "http://diliktv.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "飘花电影网",
+      "baseUrl": "http://www.2mjtt.com/inc",
+      "apiUrl": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "独播库",
+      "baseUrl": "http://api.dbyunzy.com",
+      "apiUrl": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
