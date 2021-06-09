@@ -140,7 +140,7 @@
       "apiUrl": "https://zy.ajuyu.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
-   {
+    {
       "type": "",
       "sourceName": "PZ影院",
       "baseUrl": "https://puz.pub",
