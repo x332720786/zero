@@ -9,6 +9,13 @@
     },
     {
       "type": "",
+      "sourceName": "乐播电影网",
+      "baseUrl": "https://www.lebo.la",
+      "apiUrl": "https://www.lebo.la/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "八戒资源",
       "baseUrl": "http://cj.bajiecaiji.com",
       "apiUrl": "http://cj.bajiecaiji.com/inc/api.php",
