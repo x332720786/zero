@@ -72,23 +72,23 @@
     },
     {
       "type": "",
-      "sourceName": "4k姨妈",
-      "baseUrl": "https://4k.4kyima.com",
-      "apiUrl": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
+      "sourceName": "唐朝资源",
+      "baseUrl": "https://tangchaozy.vip",
+      "apiUrl": "https://tangchaozy.vip/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
       "type": "",
-      "sourceName": "影派资源",
+      "sourceName": "影派TV",
       "baseUrl": "https://v.dtjos.com",
       "apiUrl": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
       "type": "",
-      "sourceName": "萝卜资源",
-      "baseUrl": "https://cj.lby.pet",
-      "apiUrl": "https://cj.lby.pet/api.php/provide/vod/at/xml",
+      "sourceName": "555",
+      "baseUrl": "https://www.o8tv.com",
+      "apiUrl": "https://www.o8tv.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -107,9 +107,9 @@
     },
     {
       "type": "",
-      "sourceName": "十点资源",
-      "baseUrl": "http://shidian.vip",
-      "apiUrl": "http://shidian.vip/api.php/provide/vod/at/xml",
+      "sourceName": "赞片VIP",
+      "baseUrl": "http://vip.1573i.com",
+      "apiUrl": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
@@ -128,9 +128,9 @@
     },
     {
       "type": "",
-      "sourceName": "追剧吧资源",
-      "baseUrl": "http://www.huaxiab.com",
-      "apiUrl": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "sourceName": "流年影视",
+      "baseUrl": "http://www.liunianys.cn",
+      "apiUrl": "http://www.liunianys.cn/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
@@ -207,7 +207,7 @@
       "type": "",
       "sourceName": "最快资源",
       "baseUrl": "http://cj.1886zy.co",
-      "apiUrl": "http://cj.1886zy.co/inc/seacmsapi.php",
+      "apiUrl": "http://cj.1886zy.co/inc/api.php",
       "parserUrl": ""
     },
     {
@@ -233,9 +233,9 @@
     },
     {
       "type": "",
-      "sourceName": "嘀哩嘀哩",
-      "baseUrl": "http://diliktv.com",
-      "apiUrl": "http://diliktv.com/api.php/provide/vod/at/xml",
+      "sourceName": "今日资源",
+      "baseUrl": "http://mac.jin.345888.xyz",
+      "apiUrl": "http://mac.jin.345888.xyz/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -254,16 +254,23 @@
     },
     {
       "type": "",
-      "sourceName": "新奇遇资源",
-      "baseUrl": "https://www.newqiyu.com",
-      "apiUrl": "https://www.newqiyu.com/api.php/provide/vod/at/xml",
+      "sourceName": "猪猪影院",
+      "baseUrl": "https://www.zzyingyuan.com",
+      "apiUrl": "https://www.zzyingyuan.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
       "type": "",
-      "sourceName": "太初资源",
-      "baseUrl": "https://www.tcmove.com",
-      "apiUrl": "https://www.tcmove.com/api.php/provide/vod/at/xml",
+      "sourceName": "爪可可",
+      "baseUrl": "https://www.zwcoco.com",
+      "apiUrl": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "77看片",
+      "baseUrl": "https://www.77kpp.com",
+      "apiUrl": "https://www.77kpp.com/inc/api.php",
       "parserUrl": ""
     },
     {
@@ -303,9 +310,9 @@
     },
     {
       "type": "",
-      "sourceName": "ADC资源",
-      "baseUrl": "https://www.adcmove.com",
-      "apiUrl": "https://www.adcmove.com/api.php/provide/vod/at/xml",
+      "sourceName": "追剧吧",
+      "baseUrl": "http://www.huaxiab.com",
+      "apiUrl": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -324,9 +331,37 @@
     },
     {
       "type": "",
-      "sourceName": "209资源",
-      "baseUrl": "http://www.209zy.net",
-      "apiUrl": "http://www.209zy.net/inc/api.php",
+      "sourceName": "蘑菇资源",
+      "baseUrl": "http://www.moguzyw.com:520",
+      "apiUrl": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "爱看美剧",
+      "baseUrl": "https://www.akmeiju.com",
+      "apiUrl": "https://www.akmeiju.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "白熊资源",
+      "baseUrl": "https://www.bxyy5.com",
+      "apiUrl": "https://www.bxyy5.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "胖猫TV",
+      "baseUrl": "https://www.pangmaotv.com",
+      "apiUrl": "https://www.pangmaotv.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "百度云2",
+      "baseUrl": "https://cj.apibdzy.com",
+      "apiUrl": "https://cj.apibdzy.com/inc/api.php",
       "parserUrl": ""
     },
     {
