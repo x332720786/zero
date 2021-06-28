@@ -207,7 +207,7 @@
       "type": "",
       "sourceName": "最快资源",
       "baseUrl": "http://cj.1886zy.co",
-      "apiUrl": "http://cj.1886zy.co/inc/api.php",
+      "apiUrl": "http://cj.1886zy.co/inc/seacmsapi.php",
       "parserUrl": ""
     },
     {
