@@ -79,6 +79,20 @@
     },
     {
       "type": "",
+      "sourceName": "红牛资源",
+      "baseUrl": "http://www.hongniuzy.com",
+      "apiUrl": "http://www.hongniuzy.com/inc/api.php",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "清欢资源",
+      "baseUrl": "http://free.qinghuanzy.com:666",
+      "apiUrl": "http://free.qinghuanzy.com:666/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "影派TV",
       "baseUrl": "https://v.dtjos.com",
       "apiUrl": "https://v.dtjos.com/api.php/provide/vod/at/xml",
@@ -166,6 +180,34 @@
       "sourceName": "速搜资源",
       "baseUrl": "http://www.susouzy.com",
       "apiUrl": "http://www.susouzy.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "天堂资源",
+      "baseUrl": "http://vipmv.cc",
+      "apiUrl": "http://vipmv.cc/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "融兴资源",
+      "baseUrl": "http://video.rongxingvr.cn",
+      "apiUrl": "http://video.rongxingvr.cn/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "鲸鱼云资源",
+      "baseUrl": "http://zy.gazf.cn/api.php",
+      "apiUrl": "http://zy.gazf.cn/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "TV资源",
+      "baseUrl": "http://www.zycaiji.net:7788",
+      "apiUrl": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
@@ -362,6 +404,104 @@
       "sourceName": "百度云2",
       "baseUrl": "https://cj.apibdzy.com",
       "apiUrl": "https://cj.apibdzy.com/inc/api.php",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "浊游资源",
+      "baseUrl": "http://ss47.zdzyw.co",
+      "apiUrl": "http://ss47.zdzyw.co/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "粉粉APP",
+      "baseUrl": "http://huluxiaindex.huimaojia.com:30130",
+      "apiUrl": "http://huluxiaindex.huimaojia.com:30130/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "哎呀APP",
+      "baseUrl": "http://www.aisvod.com",
+      "apiUrl": "http://www.aisvod.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "侦探APP",
+      "baseUrl": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
+      "apiUrl": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "青蛙APP",
+      "baseUrl": "http://qwys8.tv",
+      "apiUrl": "http://qwys8.tv/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "云播APP",
+      "baseUrl": "http://bxin.tv",
+      "apiUrl": "http://bxin.tv/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "阿姨追剧APP",
+      "baseUrl": "http://app.yiciyuan.me",
+      "apiUrl": "http://app.yiciyuan.me/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "爱吧APP",
+      "baseUrl": "http://28kysapp.com",
+      "apiUrl": "http://28kysapp.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "明日APP",
+      "baseUrl": "https://watchmi.cc",
+      "apiUrl": "https://watchmi.cc/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "酷猫APP",
+      "baseUrl": "https://www.10dy.net",
+      "apiUrl": "https://www.10dy.net/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "播放呀APP",
+      "baseUrl": "https://www.bofangya.com",
+      "apiUrl": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "淘影",
+      "baseUrl": "http://tv.4kvod.com",
+      "apiUrl": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "玉米影视",
+      "baseUrl": "http://yumi.video",
+      "apiUrl": "http://yumi.video/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "8K影视",
+      "baseUrl": "http://vip.8kvod.com:888",
+      "apiUrl": "http://vip.8kvod.com:888/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
