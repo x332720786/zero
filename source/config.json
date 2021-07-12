@@ -191,13 +191,6 @@
     },
     {
       "type": "",
-      "sourceName": "首涂资源",
-      "baseUrl": "http://52tj.xyz",
-      "apiUrl": "http://52tj.xyz/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "饭团资源",
       "baseUrl": "http://fantuan.wkfile.com",
       "apiUrl": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
@@ -448,6 +441,14 @@
       "apiUrl": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
+    {
+      "type": "",
+      "sourceName": "人人迷资源",
+      "baseUrl": "https://zy.renrenmi.cc",
+      "apiUrl": "https://zy.renrenmi.cc/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    
     {
       "type": "",
       "sourceName": "TVB资源",
