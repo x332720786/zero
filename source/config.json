@@ -37,6 +37,13 @@
     },
     {
       "type": "",
+      "sourceName": "番茄资源",
+      "baseUrl": "http://api.fqzy.cc/",
+      "apiUrl": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
+      "parserUrl": "https://dp.fqzy.cc/dplayer/?url="
+    },
+    {
+      "type": "",
       "sourceName": "不开门",
       "baseUrl": "http://c.bukai.men",
       "apiUrl": "http://c.bukai.men/api.php/provide/vod/at/xml",
@@ -261,7 +268,7 @@
     },
     {
       "type": "",
-      "sourceName": "爪可可",
+      "sourceName": "爪可可影视",
       "baseUrl": "https://www.zwcoco.com",
       "apiUrl": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
@@ -415,7 +422,7 @@
     },
     {
       "type": "",
-      "sourceName": "淘影",
+      "sourceName": "淘影TV",
       "baseUrl": "http://tv.4kvod.com",
       "apiUrl": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
@@ -480,6 +487,7 @@
     "https://jx.mw0.cc/?url=",
     "https://www.cuan.la/m3u8.php?url=",
     "https://api.jhdyw.vip/?url=",
+    "https://dp.fqzy.cc/dplayer/?url=",
     "http://api.baiyug.vip/index.php?url=",
     "http://playx.top/?url=",
     "https://jx.618g.com/?url=",
