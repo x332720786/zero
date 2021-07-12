@@ -23,17 +23,10 @@
     },
     {
       "type": "",
-      "sourceName": "789pan资源",
-      "baseUrl": "http://cms.789pan.cn",
-      "apiUrl": "http://cms.789pan.cn/api.php/provide/vod/at/xml",
-      "parserUrl": "http://play.zk132.cn/m3u8.php?url="
-    },
-    {
-      "type": "",
       "sourceName": "7k资源",
       "baseUrl": "https://zy.7kjx.com",
       "apiUrl": "https://zy.7kjx.com/api.php/provide/vod/at/xml",
-      "parserUrl": "https://url.js.cn/?url="
+      "parserUrl": "https://jx.xmflv.com/?url="
     },
     {
       "type": "",
@@ -513,7 +506,7 @@
     }
   ],
  "parseUrl": [
-    "https://www.cuan.la/m3u8.php?url=",
+    "https://jx.xmflv.com/?url=",
     "https://jsap.attakids.com/?url=",
     "https://okjx.cc?url=",
     "https://www.playm3u8.cn/jiexi.php?url=",
@@ -532,6 +525,7 @@
     "https://api.qianhaijishi.net/?url=",
     "https://plamgtvcache.ccyjjd.com/play.php?url=",
     "https://vip.qvod.us/?url=",
+    "https://www.8090.la/api/?url=",
     "http://jx.quanmingjiexi.com/?url=",
     "https://jx.youyitv.com/?url=",
     "https://jx.ap2p.cn/?url=",
@@ -540,7 +534,7 @@
     "http://jf.ajuyu.com/jx/?url=",
     "https://www.nxflv.com/?url=",
     "https://jx.mw0.cc/?url=",
-    "http://pangujx.cc/?url=",
+    "https://www.cuan.la/m3u8.php?url=",
     "https://api.jhdyw.vip/?url=",
     "http://api.baiyug.vip/index.php?url=",
     "http://playx.top/?url=",
@@ -549,7 +543,7 @@
     "http://api.baiyug.vip/?url=",
     "http://bofang.online/?url=",
     "http://607p.com/?url=",
-    "https://www.8090.la/api/?url="
+    "http://pangujx.cc/?url="
   ],
   "ad": [
     "mimg.0c1q0l.cn",
