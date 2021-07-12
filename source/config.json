@@ -37,13 +37,6 @@
     },
     {
       "type": "",
-      "sourceName": "未来资源",
-      "baseUrl": "https://qsulfji.cn",
-      "apiUrl": "https://qsulfji.cn/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "不开门",
       "baseUrl": "http://c.bukai.men",
       "apiUrl": "http://c.bukai.men/api.php/provide/vod/at/xml",
@@ -61,13 +54,6 @@
       "sourceName": "免费电影",
       "baseUrl": "http://www.ruiuri.com",
       "apiUrl": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "唐朝资源",
-      "baseUrl": "https://tangchaozy.vip",
-      "apiUrl": "https://tangchaozy.vip/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -205,23 +191,9 @@
     },
     {
       "type": "",
-      "sourceName": "52T资源",
+      "sourceName": "首涂资源",
       "baseUrl": "http://52tj.xyz",
       "apiUrl": "http://52tj.xyz/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "蓝光影片",
-      "baseUrl": "https://api.languang.wfss100.com",
-      "apiUrl": "https://api.languang.wfss100.com/api.php/provide/vod/at/xml",
-      "parserUrl": "https://j.languang.wfss100.com/?url="
-    },
-    {
-      "type": "",
-      "sourceName": "4v0r资源",
-      "baseUrl": "http://caiji1.4v0r.cn",
-      "apiUrl": "http://caiji1.4v0r.cn/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -310,23 +282,9 @@
     },
     {
       "type": "",
-      "sourceName": "AWSLTV资源",
-      "baseUrl": "http://www.awsltv.com",
-      "apiUrl": "http://www.awsltv.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "90资源",
       "baseUrl": "http://www.9xku.com",
       "apiUrl": "http://www.9xku.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "宅看资源",
-      "baseUrl": "https://www.zhaikanys.com",
-      "apiUrl": "https://www.zhaikanys.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -369,13 +327,6 @@
       "sourceName": "蘑菇资源",
       "baseUrl": "http://www.moguzyw.com:520",
       "apiUrl": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "爱看美剧",
-      "baseUrl": "https://www.akmeiju.com",
-      "apiUrl": "https://www.akmeiju.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
