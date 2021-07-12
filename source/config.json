@@ -338,6 +338,13 @@
     },
     {
       "type": "",
+      "sourceName": "百度云3",
+      "baseUrl": "https://m3u8.apibdzy.com",
+      "apiUrl": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "浊游资源",
       "baseUrl": "http://ss47.zdzyw.co",
       "apiUrl": "http://ss47.zdzyw.co/api.php/provide/vod/at/xml/",
@@ -425,6 +432,13 @@
       "sourceName": "8K影视",
       "baseUrl": "http://vip.8kvod.com:888",
       "apiUrl": "http://vip.8kvod.com:888/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "天空资源",
+      "baseUrl": "http://api.tiankongapi.com",
+      "apiUrl": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
