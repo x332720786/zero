@@ -170,13 +170,6 @@
     },
     {
       "type": "",
-      "sourceName": "融兴资源",
-      "baseUrl": "http://video.rongxingvr.cn",
-      "apiUrl": "http://video.rongxingvr.cn/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "鲸鱼云资源",
       "baseUrl": "http://zy.gazf.cn/api.php",
       "apiUrl": "http://zy.gazf.cn/api.php/provide/vod/at/xml/",
@@ -324,13 +317,6 @@
     },
     {
       "type": "",
-      "sourceName": "蘑菇资源",
-      "baseUrl": "http://www.moguzyw.com:520",
-      "apiUrl": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "白熊资源",
       "baseUrl": "https://www.bxyy5.com",
       "apiUrl": "https://www.bxyy5.com/api.php/provide/vod/at/xml/",
@@ -411,13 +397,6 @@
       "sourceName": "明日APP",
       "baseUrl": "https://watchmi.cc",
       "apiUrl": "https://watchmi.cc/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "酷猫APP",
-      "baseUrl": "https://www.10dy.net",
-      "apiUrl": "https://www.10dy.net/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
