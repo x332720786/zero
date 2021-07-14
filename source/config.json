@@ -296,6 +296,13 @@
     },
     {
       "type": "",
+      "sourceName": "百度云1",
+      "baseUrl": "https://api.apibdzy.com",
+      "apiUrl": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "百度云2",
       "baseUrl": "https://cj.apibdzy.com",
       "apiUrl": "https://cj.apibdzy.com/inc/api.php",
