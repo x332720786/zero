@@ -9,13 +9,6 @@
     },
     {
       "type": "",
-      "sourceName": "乐播电影网",
-      "baseUrl": "https://www.lebo.la",
-      "apiUrl": "https://www.lebo.la/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "八戒资源",
       "baseUrl": "http://cj.bajiecaiji.com",
       "apiUrl": "http://cj.bajiecaiji.com/inc/api.php",
@@ -47,13 +40,6 @@
       "sourceName": "不开门",
       "baseUrl": "http://c.bukai.men",
       "apiUrl": "http://c.bukai.men/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "麻瓜资源",
-      "baseUrl": "http://maguays.cc",
-      "apiUrl": "http://maguays.cc/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -100,23 +86,9 @@
     },
     {
       "type": "",
-      "sourceName": "柚子资源",
-      "baseUrl": "http://tv.aitesucai.xyz",
-      "apiUrl": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "赞片VIP",
       "baseUrl": "http://vip.1573i.com",
       "apiUrl": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "安逸资源",
-      "baseUrl": "http://dy.51isu.com",
-      "apiUrl": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -289,7 +261,7 @@
     },
     {
       "type": "",
-      "sourceName": "39资源",
+      "sourceName": "39看资源",
       "baseUrl": "https://www.39kan.com",
       "apiUrl": "https://www.39kan.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
