@@ -282,20 +282,6 @@
     },
     {
       "type": "",
-      "sourceName": "穿梭资源",
-      "baseUrl": "http://ok.888hyk.com",
-      "apiUrl": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "全网资源",
-      "baseUrl": "https://www.qwysvip.com",
-      "apiUrl": "https://www.qwysvip.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "追剧吧",
       "baseUrl": "http://www.huaxiab.com",
       "apiUrl": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
@@ -313,6 +299,13 @@
       "sourceName": "605资源",
       "baseUrl": "http://www.605zy.co",
       "apiUrl": "http://www.605zy.co/inc/api.php",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "穿梭资源",
+      "baseUrl": "http://ok.888hyk.com",
+      "apiUrl": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
