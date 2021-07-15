@@ -408,6 +408,27 @@
     },
     {
       "type": "",
+      "sourceName": "小姨妈",
+      "baseUrl": "https://office.4kyima.com",
+      "apiUrl": "https://office.4kyima.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "新女神",
+      "baseUrl": "http://cms.tvbox543.com:80",
+      "apiUrl": "http://cms.tvbox543.com:80/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "蓝猫资源",
+      "baseUrl": "https://www.lmzy.cc",
+      "apiUrl": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "人人迷资源",
       "baseUrl": "https://zy.renrenmi.cc",
       "apiUrl": "https://zy.renrenmi.cc/api.php/provide/vod/at/xml/",
