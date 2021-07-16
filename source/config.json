@@ -422,7 +422,7 @@
     },
     {
       "type": "",
-      "sourceName": "蓝猫资源",
+      "sourceName": "蓝猫资源B站",
       "baseUrl": "https://www.lmzy.cc",
       "apiUrl": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
       "parserUrl": ""
