@@ -422,9 +422,16 @@
     },
     {
       "type": "",
-      "sourceName": "106资源",
+      "sourceName": "106",
       "baseUrl": "http://106.53.96.250/api.php/provide/vod/at/xml",
       "apiUrl": "http://106.53.96.250/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "365影视",
+      "baseUrl": "http://video.365tx.com",
+      "apiUrl": "http://video.365tx.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
