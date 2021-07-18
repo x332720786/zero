@@ -436,6 +436,13 @@
     },
     {
       "type": "",
+      "sourceName": "09tv",
+      "baseUrl": "https://09tv.top/api.php/provide/vod/at/xml",
+      "apiUrl": "https://09tv.top/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "TVB资源",
       "baseUrl": "https://www.hktvyb.com",
       "apiUrl": "https://www.hktvyb.com/api.php/provide/vod/at/xml",
