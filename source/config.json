@@ -72,13 +72,6 @@
     },
     {
       "type": "",
-      "sourceName": "恐怖鸭资源",
-      "baseUrl": "https://kongbuya.com",
-      "apiUrl": "https://kongbuya.com/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "赞片VIP",
       "baseUrl": "http://vip.1573i.com",
       "apiUrl": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
@@ -89,13 +82,6 @@
       "sourceName": "88资源",
       "baseUrl": "http://www.88zyw.net",
       "apiUrl": "http://www.88zyw.net/inc/api.php",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "流年影视",
-      "baseUrl": "http://www.liunianys.cn",
-      "apiUrl": "http://www.liunianys.cn/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
