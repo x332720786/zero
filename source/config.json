@@ -324,9 +324,16 @@
     },
     {
       "type": "",
-      "sourceName": "追剧吧APP",
+      "sourceName": "追剧吧",
       "baseUrl": "http://www.huaxiab.com",
       "apiUrl": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "追剧吧影视APP",
+      "baseUrl": "http://iapp.zhuiju8.vip",
+      "apiUrl": "http://iapp.zhuiju8.vip/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
@@ -411,6 +418,13 @@
       "sourceName": "乐播电影网",
       "baseUrl": "https://www.lebo.la",
       "apiUrl": "https://www.lebo.la/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "106资源",
+      "baseUrl": "http://106.53.96.250/api.php/provide/vod/at/xml",
+      "apiUrl": "http://106.53.96.250/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
