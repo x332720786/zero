@@ -72,6 +72,13 @@
     },
     {
       "type": "",
+      "sourceName": "流年影院",
+      "baseUrl": "http://www.liunianys.cn",
+      "apiUrl": "http://www.liunianys.cn/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "赞片VIP",
       "baseUrl": "http://vip.1573i.com",
       "apiUrl": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
