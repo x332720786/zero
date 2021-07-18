@@ -58,13 +58,6 @@
     },
     {
       "type": "",
-      "sourceName": "清欢资源",
-      "baseUrl": "http://free.qinghuanzy.com:666",
-      "apiUrl": "http://free.qinghuanzy.com:666/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "影派TV",
       "baseUrl": "https://v.dtjos.com",
       "apiUrl": "https://v.dtjos.com/api.php/provide/vod/at/xml",
@@ -110,13 +103,6 @@
       "sourceName": "聚宇资源",
       "baseUrl": "https://zy.ajuyu.com",
       "apiUrl": "https://zy.ajuyu.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "PZ影院",
-      "baseUrl": "https://puz.pub",
-      "apiUrl": "https://puz.pub/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -219,13 +205,6 @@
     },
     {
       "type": "",
-      "sourceName": "独播库",
-      "baseUrl": "http://api.dbyunzy.com",
-      "apiUrl": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "猪猪影院",
       "baseUrl": "https://www.zzyingyuan.com",
       "apiUrl": "https://www.zzyingyuan.com/api.php/provide/vod/at/xml/",
@@ -254,13 +233,6 @@
     },
     {
       "type": "",
-      "sourceName": "追剧吧",
-      "baseUrl": "http://www.huaxiab.com",
-      "apiUrl": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "39看资源",
       "baseUrl": "https://www.39kan.com",
       "apiUrl": "https://www.39kan.com/api.php/provide/vod/at/xml",
@@ -282,9 +254,9 @@
     },
     {
       "type": "",
-      "sourceName": "豆瓣云资源",
+      "sourceName": "独播库",
       "baseUrl": "http://api.dbyunzy.com",
-      "apiUrl": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
+      "apiUrl": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -313,13 +285,6 @@
       "sourceName": "浊游资源",
       "baseUrl": "http://ss47.zdzyw.co",
       "apiUrl": "http://ss47.zdzyw.co/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "粉粉APP",
-      "baseUrl": "http://huluxiaindex.huimaojia.com:30130",
-      "apiUrl": "http://huluxiaindex.huimaojia.com:30130/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
