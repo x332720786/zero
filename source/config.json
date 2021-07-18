@@ -324,6 +324,13 @@
     },
     {
       "type": "",
+      "sourceName": "追剧吧APP",
+      "baseUrl": "http://www.huaxiab.com",
+      "apiUrl": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "明日APP",
       "baseUrl": "https://watchmi.cc",
       "apiUrl": "https://watchmi.cc/api.php/provide/vod/at/xml/",
