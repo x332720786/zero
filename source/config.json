@@ -401,6 +401,13 @@
     },
     {
       "type": "",
+      "sourceName": "乐播电影网",
+      "baseUrl": "https://www.lebo.la",
+      "apiUrl": "https://www.lebo.la/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "TVB资源",
       "baseUrl": "https://www.hktvyb.com",
       "apiUrl": "https://www.hktvyb.com/api.php/provide/vod/at/xml",
