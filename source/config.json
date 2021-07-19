@@ -415,27 +415,6 @@
     },
     {
       "type": "",
-      "sourceName": "乐播电影网",
-      "baseUrl": "https://www.lebo.la",
-      "apiUrl": "https://www.lebo.la/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "106",
-      "baseUrl": "http://106.53.96.250/api.php/provide/vod/at/xml",
-      "apiUrl": "http://106.53.96.250/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "365影视",
-      "baseUrl": "http://video.365tx.com",
-      "apiUrl": "http://video.365tx.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "09tv",
       "baseUrl": "https://09tv.top/api.php/provide/vod/at/xml",
       "apiUrl": "https://09tv.top/api.php/provide/vod/at/xml",
