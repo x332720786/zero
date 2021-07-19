@@ -72,6 +72,13 @@
     },
     {
       "type": "",
+      "sourceName": "555电影②",
+      "baseUrl": "http://fx.movie06.com",
+      "apiUrl": "http://fx.movie06.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "流年影院",
       "baseUrl": "http://www.liunianys.cn",
       "apiUrl": "http://www.liunianys.cn/api.php/provide/vod/at/xml/",
@@ -145,6 +152,13 @@
       "sourceName": "饭团资源",
       "baseUrl": "http://fantuan.wkfile.com",
       "apiUrl": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "U猫m3u8",
+      "baseUrl": "http://umao.ml",
+      "apiUrl": "http://umao.ml/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
@@ -359,6 +373,27 @@
     },
     {
       "type": "",
+      "sourceName": "氢视频APP",
+      "baseUrl": "http://hmgdxf.com",
+      "apiUrl": "http://hmgdxf.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "优炫APP",
+      "baseUrl": "http://yuntv.iyxtv.cn",
+      "apiUrl": "http://yuntv.iyxtv.cn/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "蓝果APP",
+      "baseUrl": "http://www.languotv.com",
+      "apiUrl": "http://www.languotv.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "淘影TV",
       "baseUrl": "http://tv.4kvod.com",
       "apiUrl": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
@@ -376,13 +411,6 @@
       "sourceName": "8K影视",
       "baseUrl": "http://vip.8kvod.com:888",
       "apiUrl": "http://vip.8kvod.com:888/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "天空资源",
-      "baseUrl": "http://api.tiankongapi.com",
-      "apiUrl": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -425,6 +453,13 @@
       "sourceName": "09tv",
       "baseUrl": "https://09tv.top/api.php/provide/vod/at/xml",
       "apiUrl": "https://09tv.top/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "天空资源",
+      "baseUrl": "http://api.tiankongapi.com",
+      "apiUrl": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     }
   ],
