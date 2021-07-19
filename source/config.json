@@ -170,7 +170,7 @@
     },
     {
       "type": "",
-      "sourceName": "真不卡资源",
+      "sourceName": "真不卡",
       "baseUrl": "http://db.taijuwang.cc",
       "apiUrl": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
       "parserUrl": ""
@@ -401,14 +401,14 @@
     },
     {
       "type": "",
-      "sourceName": "蓝猫资源B站",
+      "sourceName": "蓝猫B站",
       "baseUrl": "https://www.lmzy.cc",
       "apiUrl": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
       "type": "",
-      "sourceName": "人人迷资源",
+      "sourceName": "人人迷",
       "baseUrl": "https://zy.renrenmi.cc",
       "apiUrl": "https://zy.renrenmi.cc/api.php/provide/vod/at/xml/",
       "parserUrl": ""
@@ -418,13 +418,6 @@
       "sourceName": "09tv",
       "baseUrl": "https://09tv.top/api.php/provide/vod/at/xml",
       "apiUrl": "https://09tv.top/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "TVB资源",
-      "baseUrl": "https://www.hktvyb.com",
-      "apiUrl": "https://www.hktvyb.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     }
   ],
