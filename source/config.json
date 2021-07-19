@@ -72,13 +72,6 @@
     },
     {
       "type": "",
-      "sourceName": "555电影②",
-      "baseUrl": "http://fx.movie06.com",
-      "apiUrl": "http://fx.movie06.com/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "流年影院",
       "baseUrl": "http://www.liunianys.cn",
       "apiUrl": "http://www.liunianys.cn/api.php/provide/vod/at/xml/",
@@ -392,6 +385,27 @@
       "apiUrl": "http://www.languotv.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
+        {
+      "type": "",
+      "sourceName": "555APP",
+      "baseUrl": "http://fx.movie06.com",
+      "apiUrl": "http://fx.movie06.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+        {
+      "type": "",
+      "sourceName": "小蜻蜓APP",
+      "baseUrl": "http://3ketv.com",
+      "apiUrl": "http://3ketv.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "亦龙APP",
+      "baseUrl": "http://app2.yilongys.cn",
+      "apiUrl": "http://app2.yilongys.cn/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
     {
       "type": "",
       "sourceName": "淘影TV",
@@ -453,6 +467,20 @@
       "sourceName": "09tv",
       "baseUrl": "https://09tv.top/api.php/provide/vod/at/xml",
       "apiUrl": "https://09tv.top/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+        {
+      "type": "",
+      "sourceName": "雅阁影视",
+      "baseUrl": "https://2btv.eu",
+      "apiUrl": "https://2btv.eu/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+        {
+      "type": "",
+      "sourceName": "安逸影院",
+      "baseUrl": "http://dy.51isu.com:11801",
+      "apiUrl": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
