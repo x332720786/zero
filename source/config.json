@@ -226,6 +226,13 @@
     },
     {
       "type": "",
+      "sourceName": "90偶尔",
+      "baseUrl": "http://iiiv.vip",
+      "apiUrl": "http://iiiv.vip/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "39看资源",
       "baseUrl": "https://www.39kan.com",
       "apiUrl": "https://www.39kan.com/api.php/provide/vod/at/xml",
