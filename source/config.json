@@ -198,6 +198,13 @@
     },
     {
       "type": "",
+      "sourceName": "恐怖鸭",
+      "baseUrl": "https://kongbuya.com",
+      "apiUrl": "https://kongbuya.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "飘花电影网",
       "baseUrl": "http://www.2mjtt.com/inc",
       "apiUrl": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
