@@ -16,27 +16,6 @@
     },
     {
       "type": "",
-      "sourceName": "7k资源",
-      "baseUrl": "https://zy.7kjx.com",
-      "apiUrl": "https://zy.7kjx.com/api.php/provide/vod/at/xml",
-      "parserUrl": "https://jx.xmflv.com/?url="
-    },
-    {
-      "type": "",
-      "sourceName": "乐多资源",
-      "baseUrl": "http://api.leduozy.com",
-      "apiUrl": "http://api.leduozy.com/inc/seacmsapi.php",
-      "parserUrl": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
-    },
-    {
-      "type": "",
-      "sourceName": "番茄资源",
-      "baseUrl": "http://api.fqzy.cc/",
-      "apiUrl": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
-      "parserUrl": "https://dp.fqzy.cc/dplayer/?url="
-    },
-    {
-      "type": "",
       "sourceName": "不开门",
       "baseUrl": "http://c.bukai.men",
       "apiUrl": "http://c.bukai.men/api.php/provide/vod/at/xml",
@@ -489,6 +468,27 @@
       "baseUrl": "http://dy.51isu.com:11801",
       "apiUrl": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "7k资源",
+      "baseUrl": "https://zy.7kjx.com",
+      "apiUrl": "https://zy.7kjx.com/api.php/provide/vod/at/xml",
+      "parserUrl": "https://jx.xmflv.com/?url="
+    },
+    {
+      "type": "",
+      "sourceName": "乐多资源",
+      "baseUrl": "http://api.leduozy.com",
+      "apiUrl": "http://api.leduozy.com/inc/seacmsapi.php",
+      "parserUrl": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
+    },
+    {
+      "type": "",
+      "sourceName": "番茄资源",
+      "baseUrl": "http://api.fqzy.cc/",
+      "apiUrl": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
+      "parserUrl": "https://dp.fqzy.cc/dplayer/?url="
     },
     {
       "type": "",
