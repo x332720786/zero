@@ -647,6 +647,30 @@
     {
       "name": "豆瓣即将上映",
       "url": "https://movie.douban.com/coming"
+    },
+    {
+      "name": "一周口碑电影榜",
+      "url": "https://m.douban.com/subject_collection/movie_weekly_best"
+    },
+    {
+      "name": "实时热门电影",
+      "url": "https://m.douban.com/subject_collection/movie_real_time_hotest"
+    },
+    {
+      "name": "华语口碑剧集榜",
+      "url": "https://m.douban.com/subject_collection/tv_chinese_best_weekly"
+    },
+    {
+      "name": "全球口碑剧集榜",
+      "url": "https://m.douban.com/subject_collection/tv_global_best_weekly"
+    },
+    {
+      "name": "国内口碑综艺榜",
+      "url": "https://m.douban.com/subject_collection/show_chinese_best_weekly"
+    },
+    {
+      "name": "国外口碑综艺榜",
+      "url": "https://m.douban.com/subject_collection/show_global_best_weekly"
     }
   ],
   "openAd": false,
