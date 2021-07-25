@@ -633,6 +633,10 @@
       "url": "https://m.pptv.com/"
     },
     {
+      "name": "1905电影网影库",
+      "url": "https://www.1905.com/mdb/film/newfilm?fr=wwwmdb_data_secnavigat_4_20141023"
+    },
+    {
       "name": "百度最新电影",
       "url": "https://m.baidu.com/sf?from_sf=1&word=%E6%9C%80%E6%96%B0%E7%94%B5%E5%BD%B1&ms=1&title=%E6%9C%80%E6%96%B0%E7%94%B5%E5%BD%B1&resource_id=28214&top={%22sfhs%22:0}&dspName=iphone&openapi=1&tn=tangram&pd=movie_general&ext={%22sf_tab_name%22:%22%E7%94%B5%E5%BD%B1%22}&sort_key=%E6%9C%80%E6%96%B0&stat0=&stat1=&stat2=&stat3=&kg_rid=28214&ae_sid=&lid=8248805694118854149&referlid=8248805694118854149&ms=1&frsrcid=28214&frorder=1"
     },
