@@ -198,13 +198,6 @@
     },
     {
       "type": "",
-      "sourceName": "77看片",
-      "baseUrl": "https://www.77kpp.com",
-      "apiUrl": "https://www.77kpp.com/inc/api.php",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "90资源",
       "baseUrl": "http://www.9xku.com",
       "apiUrl": "http://www.9xku.com/api.php/provide/vod/at/xml",
@@ -324,13 +317,6 @@
     },
     {
       "type": "",
-      "sourceName": "追剧吧影视APP",
-      "baseUrl": "http://iapp.zhuiju8.vip",
-      "apiUrl": "http://iapp.zhuiju8.vip/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "明日APP",
       "baseUrl": "https://watchmi.cc",
       "apiUrl": "https://watchmi.cc/api.php/provide/vod/at/xml/",
@@ -436,13 +422,6 @@
     },
     {
       "type": "",
-      "sourceName": "人人迷",
-      "baseUrl": "https://zy.renrenmi.cc",
-      "apiUrl": "https://zy.renrenmi.cc/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "09tv",
       "baseUrl": "https://09tv.top/api.php/provide/vod/at/xml",
       "apiUrl": "https://09tv.top/api.php/provide/vod/at/xml",
@@ -493,6 +472,8 @@
   ],
  "parseUrl": [
     "https://api.jhdyw.vip/?url=",
+    "https://okjx.cc?url=",
+    "https://mao.6949.cc/?url=",
     "https://egoist.parwix.com:4433/player/?url=",
     "http://api.yueliangjx.com/?url=",
     "https://jx.m3u8.tv/jiexi/?url=",
